@@ -44,10 +44,10 @@ other = "Edit"
 other = "Print whole chapter"
 
 [More-action]
-other = "More"
+other = ""
 
 [Shortcuts-Title]
-other = "More"
+other = ""
 
 [Expand-title]
 other = "Expand me..."
