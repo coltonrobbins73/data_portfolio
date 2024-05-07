@@ -1,1 +1,1 @@
-## Hugo theme for my data portfolio organization
+## Hugo theme for my medical scribe website
